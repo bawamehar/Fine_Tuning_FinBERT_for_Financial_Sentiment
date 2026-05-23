@@ -53,3 +53,5 @@ fine-tuned for 3-class sentiment classification.
 - Per-class evaluation using precision, recall and F1
 
 ---
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z0aOE9g7jhBEifw_Gj9r4By5ZQpIqOO-#scrollTo=llwZpj8_XHyr)
