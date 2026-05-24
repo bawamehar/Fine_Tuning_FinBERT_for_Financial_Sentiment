@@ -1,5 +1,5 @@
 # Financial Sentiment Analysis using FinBERT
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1FLts8Wycc177JpOhAh8gsJC2VIWN9vem/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FLts8Wycc177JpOhAh8gsJC2VIWN9vem#scrollTo=ihpeelPDPNVd)
 
 Fine-tuned FinBERT on financial news sentences to classify sentiment as 
 positive, negative, or neutral. Built an end-to-end pipeline from data 
